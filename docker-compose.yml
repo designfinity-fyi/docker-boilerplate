@@ -2,5 +2,5 @@ version: "3"
 services:
   workflow-app:
     container_name: workflow-app
-    image: local-registry-server:8083/workflow-app
+    image: local-registry-server:8083/workflow
   port: 8080:3000
